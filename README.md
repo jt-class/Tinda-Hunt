@@ -1,0 +1,6 @@
+# Tinda Hunt-Group6
+MEMBERS: 
+BERNAT
+DAHUNOG
+INTIA
+LEUTERIO
