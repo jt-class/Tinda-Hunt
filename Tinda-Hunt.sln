@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tinda-Hunt", "Tinda-Hunt\Tinda-Hunt.csproj", "{C390B36E-27A0-461F-87DF-B8C3D135FC06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C390B36E-27A0-461F-87DF-B8C3D135FC06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C390B36E-27A0-461F-87DF-B8C3D135FC06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C390B36E-27A0-461F-87DF-B8C3D135FC06}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C390B36E-27A0-461F-87DF-B8C3D135FC06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C390B36E-27A0-461F-87DF-B8C3D135FC06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C390B36E-27A0-461F-87DF-B8C3D135FC06}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26C46BF8-B1EB-413D-8764-221B5E6951F4}
+	EndGlobalSection
+EndGlobal
