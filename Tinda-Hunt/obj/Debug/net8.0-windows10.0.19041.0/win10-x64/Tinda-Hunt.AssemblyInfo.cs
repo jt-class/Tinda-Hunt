@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tinda-Hunt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+d23b09d9e877cdf5a3538664573c8e7b1783bd65")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tinda-Hunt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tinda-Hunt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
