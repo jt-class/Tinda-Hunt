@@ -214,6 +214,15 @@
     <AppxPackagedFile Include="C:\Users\reign\source\repos\tindahunt\Tinda-Hunt\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\tindahunt\Tinda-Hunt\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sale.scale-100.png">
+      <PackagePath>sale.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\tindahunt\Tinda-Hunt\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\shopbask.scale-100.png">
+      <PackagePath>shopbask.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\tindahunt\Tinda-Hunt\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\store.scale-100.png">
+      <PackagePath>store.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\reign\source\repos\tindahunt\Tinda-Hunt\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tindahunt.scale-100.png">
       <PackagePath>tindahunt.scale-100.png</PackagePath>
     </AppxPackagedFile>

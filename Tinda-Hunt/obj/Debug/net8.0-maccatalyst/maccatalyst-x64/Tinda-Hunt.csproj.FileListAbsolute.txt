@@ -303,3 +303,6 @@ C:\Users\reign\source\repos\tindahunt\Tinda-Hunt\obj\Debug\net8.0-maccatalyst\ma
 C:\Users\reign\source\repos\tindahunt\Tinda-Hunt\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Tinda-Hunt.pdb
 C:\Users\reign\source\repos\tindahunt\Tinda-Hunt\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Tinda-Hunt.genruntimeconfig.cache
 C:\Users\reign\source\repos\tindahunt\Tinda-Hunt\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\Tinda-Hunt.dll
+C:\Users\reign\source\repos\tindahunt\Tinda-Hunt\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\sale.png
+C:\Users\reign\source\repos\tindahunt\Tinda-Hunt\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\shopbask.png
+C:\Users\reign\source\repos\tindahunt\Tinda-Hunt\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\store.png

@@ -2,8 +2,6 @@
 {
     public partial class MainPage : ContentPage
     {
-
-
         public MainPage()
         {
 
@@ -29,6 +27,7 @@
         private void ShowLoading(bool isLoading)
         {
             LoadingOverlay.IsVisible = isLoading;
+            
 
 
         }

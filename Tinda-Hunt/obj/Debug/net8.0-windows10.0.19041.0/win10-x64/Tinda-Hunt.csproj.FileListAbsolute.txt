@@ -183,3 +183,6 @@ C:\Users\reign\source\repos\tindahunt\Tinda-Hunt\obj\Debug\net8.0-windows10.0.19
 C:\Users\reign\source\repos\tindahunt\Tinda-Hunt\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\reign\source\repos\tindahunt\Tinda-Hunt\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\reign\source\repos\tindahunt\Tinda-Hunt\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\reign\source\repos\tindahunt\Tinda-Hunt\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sale.scale-100.png
+C:\Users\reign\source\repos\tindahunt\Tinda-Hunt\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\shopbask.scale-100.png
+C:\Users\reign\source\repos\tindahunt\Tinda-Hunt\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\store.scale-100.png

@@ -8,31 +8,43 @@
             <VerticalStackLayout HorizontalOptions="Center" >
                 <SearchBar 
                     Placeholder="Search Here"
-                    WidthRequest="338"
+                    WidthRequest="400"
                     HeightRequest="40"
                        />
             </VerticalStackLayout>
-            
+
             <VerticalStackLayout VerticalOptions="End" HorizontalOptions="Center" Margin="0,10,0,20">
 
+                <!-- First Frame: Buy Item -->
                 <Frame BackgroundColor="#D3D3D3" CornerRadius="25" Padding="10" Margin="0, 10"
                        HasShadow="True" HeightRequest="60" WidthRequest="250">
+                    <Frame.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="OnBuyItemTapped" />
+                    </Frame.GestureRecognizers>
                     <HorizontalStackLayout HorizontalOptions="Center"  Padding="1" Spacing="25">
                         <Image Source="shopbask" WidthRequest="30" HeightRequest="30"  />
                         <Label Text="Buy Item" FontAttributes="Bold" FontSize="Medium" VerticalOptions="Center" />
                     </HorizontalStackLayout>
                 </Frame>
 
+                <!-- Second Frame: Nearest Store -->
                 <Frame BackgroundColor="#D3D3D3" CornerRadius="25" Padding="10" Margin="0, 10"
                        HasShadow="True" HeightRequest="60" WidthRequest="250">
+                    <Frame.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="OnNearestStoreTapped" />
+                    </Frame.GestureRecognizers>
                     <HorizontalStackLayout HorizontalOptions="Center" Padding="1" Spacing="25">
                         <Image Source="store" WidthRequest="29" HeightRequest="29" />
                         <Label Text="Nearest Store" FontAttributes="Bold" FontSize="Medium" VerticalOptions="Center" />
                     </HorizontalStackLayout>
                 </Frame>
 
+                <!-- Third Frame: Price -->
                 <Frame BackgroundColor="#D3D3D3" CornerRadius="25" Padding="10" Margin="0, 10"
                        HasShadow="True" HeightRequest="60" WidthRequest="250">
+                    <Frame.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="OnPriceTapped" />
+                    </Frame.GestureRecognizers>
                     <HorizontalStackLayout HorizontalOptions="Center"  Padding="1" Spacing="25">
                         <Image Source="sale" WidthRequest="30" HeightRequest="30" />
                         <Label Text="Price" FontAttributes="Bold" FontSize="Medium" VerticalOptions="Center" />
@@ -42,4 +54,3 @@
         </Grid>
     </ContentPage.Content>
 </ContentPage>
-
