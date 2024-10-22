@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\reign\\source\\repos\\Tinda-Hunt\\",
+  "WorkspaceRootPath": "C:\\Users\\reign\\source\\repos\\tindahunt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\reign\\source\\repos\\tinda-hunt\\tinda-hunt\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|solutionrelative:tinda-hunt\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\reign\\source\\repos\\tinda-hunt\\tinda-hunt\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|solutionrelative:tinda-hunt\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\reign\\source\\repos\\tinda-hunt\\tinda-hunt\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\reign\\source\\repos\\tindahunt\\tinda-hunt\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|solutionrelative:tinda-hunt\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\reign\\source\\repos\\tinda-hunt\\tinda-hunt\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\reign\\source\\repos\\tindahunt\\tinda-hunt\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|solutionrelative:tinda-hunt\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\reign\\source\\repos\\tindahunt\\tinda-hunt\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|solutionrelative:tinda-hunt\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\reign\\source\\repos\\tindahunt\\tinda-hunt\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|solutionrelative:tinda-hunt\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\reign\\source\\repos\\tindahunt\\tinda-hunt\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|solutionrelative:tinda-hunt\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,15 +30,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\Tinda-Hunt\\Tinda-Hunt\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\App.xaml.cs",
               "RelativeDocumentMoniker": "Tinda-Hunt\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\reign\\source\\repos\\Tinda-Hunt\\Tinda-Hunt\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\App.xaml.cs",
               "RelativeToolTip": "Tinda-Hunt\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -44,11 +48,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\HomePage.xaml",
+              "RelativeDocumentMoniker": "Tinda-Hunt\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\HomePage.xaml",
+              "RelativeToolTip": "Tinda-Hunt\\HomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T10:40:43.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\Tinda-Hunt\\Tinda-Hunt\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\App.xaml",
               "RelativeDocumentMoniker": "Tinda-Hunt\\App.xaml",
-              "ToolTip": "C:\\Users\\reign\\source\\repos\\Tinda-Hunt\\Tinda-Hunt\\App.xaml",
+              "ToolTip": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\App.xaml",
               "RelativeToolTip": "Tinda-Hunt\\App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -57,28 +74,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\Tinda-Hunt\\Tinda-Hunt\\MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "Tinda-Hunt\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\reign\\source\\repos\\Tinda-Hunt\\Tinda-Hunt\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\MainPage.xaml.cs",
               "RelativeToolTip": "Tinda-Hunt\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T14:55:31.949Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\Tinda-Hunt\\Tinda-Hunt\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\MainPage.xaml",
               "RelativeDocumentMoniker": "Tinda-Hunt\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\reign\\source\\repos\\Tinda-Hunt\\Tinda-Hunt\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\MainPage.xaml",
               "RelativeToolTip": "Tinda-Hunt\\MainPage.xaml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-17T14:55:18.791Z"
+              "WhenOpened": "2024-10-17T14:55:18.791Z",
+              "EditorCaption": ""
             }
           ]
         }

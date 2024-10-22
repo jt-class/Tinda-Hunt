@@ -3,12 +3,25 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Tinda_Hunt.MainPage">
 
-    <VerticalStackLayout BackgroundColor="White">
+    <Grid>
+
         <Image
             Source="tindahunt.svg"
+            Aspect="AspectFill"
             HorizontalOptions="FillAndExpand"
-            VerticalOptions="FillAndExpand"
-            Aspect="AspectFill" />
-    </VerticalStackLayout>
+            VerticalOptions="FillAndExpand" />
 
+        <Grid x:Name="LoadingOverlay"
+              BackgroundColor="Black"
+              Opacity="0.5"
+              IsVisible="False"
+              HorizontalOptions="FillAndExpand"
+              VerticalOptions="FillAndExpand">
+            <ActivityIndicator IsRunning="True" 
+                               Color="White" 
+                               VerticalOptions="Center" 
+                               HorizontalOptions="Center" />
+        </Grid>
+    </Grid>
+    
 </ContentPage>

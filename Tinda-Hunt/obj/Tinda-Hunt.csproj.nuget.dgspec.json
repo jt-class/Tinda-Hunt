@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\reign\\source\\repos\\Tinda-Hunt\\Tinda-Hunt\\Tinda-Hunt.csproj": {}
+    "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\Tinda-Hunt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\reign\\source\\repos\\Tinda-Hunt\\Tinda-Hunt\\Tinda-Hunt.csproj": {
+    "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\Tinda-Hunt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\reign\\source\\repos\\Tinda-Hunt\\Tinda-Hunt\\Tinda-Hunt.csproj",
+        "projectUniqueName": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\Tinda-Hunt.csproj",
         "projectName": "Tinda-Hunt",
-        "projectPath": "C:\\Users\\reign\\source\\repos\\Tinda-Hunt\\Tinda-Hunt\\Tinda-Hunt.csproj",
+        "projectPath": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\Tinda-Hunt.csproj",
         "packagesPath": "C:\\Users\\reign\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\reign\\source\\repos\\Tinda-Hunt\\Tinda-Hunt\\obj\\",
+        "outputPath": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
