@@ -2,11 +2,44 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Tinda_Hunt.HomePage"
-             Title="HomePage">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+             >
+    <ContentPage.Content>
+        <Grid>
+            <VerticalStackLayout HorizontalOptions="Center" >
+                <SearchBar 
+                    Placeholder="Search Here"
+                    WidthRequest="338"
+                    HeightRequest="40"
+                       />
+            </VerticalStackLayout>
+            
+            <VerticalStackLayout VerticalOptions="End" HorizontalOptions="Center" Margin="0,10,0,20">
+
+                <Frame BackgroundColor="#D3D3D3" CornerRadius="25" Padding="10" Margin="0, 10"
+                       HasShadow="True" HeightRequest="60" WidthRequest="250">
+                    <HorizontalStackLayout HorizontalOptions="Center"  Padding="1" Spacing="25">
+                        <Image Source="shopbask" WidthRequest="30" HeightRequest="30"  />
+                        <Label Text="Buy Item" FontAttributes="Bold" FontSize="Medium" VerticalOptions="Center" />
+                    </HorizontalStackLayout>
+                </Frame>
+
+                <Frame BackgroundColor="#D3D3D3" CornerRadius="25" Padding="10" Margin="0, 10"
+                       HasShadow="True" HeightRequest="60" WidthRequest="250">
+                    <HorizontalStackLayout HorizontalOptions="Center" Padding="1" Spacing="25">
+                        <Image Source="store" WidthRequest="29" HeightRequest="29" />
+                        <Label Text="Nearest Store" FontAttributes="Bold" FontSize="Medium" VerticalOptions="Center" />
+                    </HorizontalStackLayout>
+                </Frame>
+
+                <Frame BackgroundColor="#D3D3D3" CornerRadius="25" Padding="10" Margin="0, 10"
+                       HasShadow="True" HeightRequest="60" WidthRequest="250">
+                    <HorizontalStackLayout HorizontalOptions="Center"  Padding="1" Spacing="25">
+                        <Image Source="sale" WidthRequest="30" HeightRequest="30" />
+                        <Label Text="Price" FontAttributes="Bold" FontSize="Medium" VerticalOptions="Center" />
+                    </HorizontalStackLayout>
+                </Frame>
+            </VerticalStackLayout>
+        </Grid>
+    </ContentPage.Content>
 </ContentPage>
+

@@ -57,6 +57,9 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\Images\sale.png" />
+	  <None Remove="Resources\Images\shopbask.png" />
+	  <None Remove="Resources\Images\store.png" />
 	  <None Remove="Resources\Images\tindahunt.svg" />
 	</ItemGroup>
 

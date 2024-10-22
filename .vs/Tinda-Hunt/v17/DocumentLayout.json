@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\reign\\source\\repos\\tindahunt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\reign\\source\\repos\\tindahunt\\tinda-hunt\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|solutionrelative:tinda-hunt\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\reign\\source\\repos\\tindahunt\\tinda-hunt\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|solutionrelative:tinda-hunt\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\reign\\source\\repos\\tindahunt\\tinda-hunt\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|solutionrelative:tinda-hunt\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\reign\\source\\repos\\tindahunt\\tinda-hunt\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|solutionrelative:tinda-hunt\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\reign\\source\\repos\\tindahunt\\tinda-hunt\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -30,38 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\App.xaml.cs",
-              "RelativeDocumentMoniker": "Tinda-Hunt\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\App.xaml.cs",
-              "RelativeToolTip": "Tinda-Hunt\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T15:38:13.369Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomePage.xaml",
-              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\HomePage.xaml",
-              "RelativeDocumentMoniker": "Tinda-Hunt\\HomePage.xaml",
-              "ToolTip": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\HomePage.xaml",
-              "RelativeToolTip": "Tinda-Hunt\\HomePage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Tinda-Hunt\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\AppShell.xaml",
+              "RelativeToolTip": "Tinda-Hunt\\AppShell.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-22T10:40:43.858Z",
+              "WhenOpened": "2024-10-22T11:30:25.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\App.xaml",
               "RelativeDocumentMoniker": "Tinda-Hunt\\App.xaml",
@@ -69,33 +47,20 @@
               "RelativeToolTip": "Tinda-Hunt\\App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-17T15:38:04.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "Tinda-Hunt\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\MainPage.xaml.cs",
-              "RelativeToolTip": "Tinda-Hunt\\MainPage.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T14:55:31.949Z",
+              "WhenOpened": "2024-10-22T11:30:24.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\MainPage.xaml",
-              "RelativeDocumentMoniker": "Tinda-Hunt\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\MainPage.xaml",
-              "RelativeToolTip": "Tinda-Hunt\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\HomePage.xaml",
+              "RelativeDocumentMoniker": "Tinda-Hunt\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\HomePage.xaml",
+              "RelativeToolTip": "Tinda-Hunt\\HomePage.xaml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-17T14:55:18.791Z",
+              "WhenOpened": "2024-10-22T10:40:43.858Z",
               "EditorCaption": ""
             }
           ]
