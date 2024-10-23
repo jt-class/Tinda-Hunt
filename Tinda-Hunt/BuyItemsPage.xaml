@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tinda_Hunt.BuyItemsPage">
+    <ContentPage.Content>
+        <StackLayout Padding="10" BackgroundColor="LightGray">
+            <Button Text="←" BackgroundColor="Transparent" TextColor="Black" FontSize="Large" HorizontalOptions="Start" />
+
+            <SearchBar Placeholder="Search" />
+
+            <Label Text="Buy Items" FontAttributes="Bold" FontSize="Large" TextColor="Black" />
+
+            <Grid Padding="0,20,0,0" RowSpacing="10" ColumnSpacing="10">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <Button Text="Canned Food" Grid.Row="0" Grid.Column="0" Style="{StaticResource ItemButtonStyle}" Clicked="OnCannedFoodClicked" />
+                <Button Text="Noodles" Grid.Row="1" Grid.Column="0" Style="{StaticResource ItemButtonStyle}" />
+                <Button Text="Shampoo" Grid.Row="2" Grid.Column="0" Style="{StaticResource ItemButtonStyle}" />
+                <Button Text="Candy" Grid.Row="3" Grid.Column="0" Style="{StaticResource ItemButtonStyle}" />
+                <Button Text="Alcohol" Grid.Row="4" Grid.Column="0" Style="{StaticResource ItemButtonStyle}" />
+                <Button Text="Coffee" Grid.Row="5" Grid.Column="0" Style="{StaticResource ItemButtonStyle}" />
+                <Button Text="Cooking Oil" Grid.Row="6" Grid.Column="0" Style="{StaticResource ItemButtonStyle}" />
+                <Button Text="Meat" Grid.Row="7" Grid.Column="0" Style="{StaticResource ItemButtonStyle}" />
+
+                <Button Text="Egg" Grid.Row="0" Grid.Column="1" Style="{StaticResource ItemButtonStyle}" />
+                <Button Text="Spices" Grid.Row="1" Grid.Column="1" Style="{StaticResource ItemButtonStyle}" />
+                <Button Text="Detergent" Grid.Row="2" Grid.Column="1" Style="{StaticResource ItemButtonStyle}" />
+                <Button Text="Cigarette" Grid.Row="3" Grid.Column="1" Style="{StaticResource ItemButtonStyle}" />
+                <Button Text="Medicine" Grid.Row="4" Grid.Column="1" Style="{StaticResource ItemButtonStyle}" />
+                <Button Text="Junk Food" Grid.Row="5" Grid.Column="1" Style="{StaticResource ItemButtonStyle}" />
+                <Button Text="Bread" Grid.Row="6" Grid.Column="1" Style="{StaticResource ItemButtonStyle}" />
+                <Button Text="Vegetables" Grid.Row="7" Grid.Column="1" Style="{StaticResource ItemButtonStyle}" />
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

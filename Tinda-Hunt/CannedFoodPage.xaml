@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tinda_Hunt.CannedFoodPage"
+             BackgroundColor="#F5F5F5">
+
+    <StackLayout Padding="10">
+
+        <!-- Header -->
+        <StackLayout Orientation="Horizontal" VerticalOptions="Start">
+            <ImageButton Source="back_icon.png" HorizontalOptions="Start" WidthRequest="30" HeightRequest="30"/>
+            <Label Text="Canned Food" FontSize="Large" HorizontalOptions="CenterAndExpand" VerticalTextAlignment="Center"/>
+        </StackLayout>
+
+        <!-- Search -->
+        <SearchBar Placeholder="Search" VerticalOptions="Start" />
+
+        <!-- Sorting -->
+        <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" VerticalOptions="Start">
+            <Label Text="Sort by:" FontSize="Medium" VerticalTextAlignment="Center" />
+            <Button Text="A-Z" BackgroundColor="#E0E0E0" TextColor="Black" />
+            <Button Text="Price" BackgroundColor="#E0E0E0" TextColor="Black" />
+        </StackLayout>
+
+        <!-- Listahan -->
+        <CollectionView ItemsLayout="VerticalGrid, 2" VerticalOptions="FillAndExpand">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame Padding="10" HasShadow="True" CornerRadius="10" Margin="5">
+                        <StackLayout HorizontalOptions="Center" VerticalOptions="CenterAndExpand">
+                            <Image Source="{Binding Image}" WidthRequest="80" HeightRequest="100"/>
+                            <Label Text="{Binding Name}" FontSize="Medium" HorizontalOptions="Center"/>
+                        </StackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+    </StackLayout>
+
+</ContentPage>
+    

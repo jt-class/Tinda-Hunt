@@ -1,1 +1,1 @@
-C:\Users\reign\source\repos\tindahunt\Tinda-Hunt\Tinda-Hunt.csproj;x64
+C:\Users\Camron\source\repos\TindaHunt2\Tinda-Hunt\Tinda-Hunt\Tinda-Hunt.csproj;x64

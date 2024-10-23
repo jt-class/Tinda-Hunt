@@ -1,22 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\reign\\source\\repos\\tindahunt\\",
+  "WorkspaceRootPath": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\reign\\source\\repos\\tindahunt\\tinda-hunt\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\camron\\source\\repos\\tindahunt2\\tinda-hunt\\tinda-hunt\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|solutionrelative:tinda-hunt\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\camron\\source\\repos\\tindahunt2\\tinda-hunt\\tinda-hunt\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|solutionrelative:tinda-hunt\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\camron\\source\\repos\\tindahunt2\\tinda-hunt\\tinda-hunt\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|solutionrelative:tinda-hunt\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\reign\\source\\repos\\tindahunt\\tinda-hunt\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|solutionrelative:tinda-hunt\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\camron\\source\\repos\\tindahunt2\\tinda-hunt\\tinda-hunt\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|solutionrelative:tinda-hunt\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\reign\\source\\repos\\tindahunt\\tinda-hunt\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\camron\\source\\repos\\tindahunt2\\tinda-hunt\\tinda-hunt\\tinda-hunt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|solutionrelative:tinda-hunt\\tinda-hunt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\camron\\source\\repos\\tindahunt2\\tinda-hunt\\tinda-hunt\\buyitemspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|solutionrelative:tinda-hunt\\buyitemspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\camron\\source\\repos\\tindahunt2\\tinda-hunt\\tinda-hunt\\buyitemspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|solutionrelative:tinda-hunt\\buyitemspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\camron\\source\\repos\\tindahunt2\\tinda-hunt\\tinda-hunt\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|solutionrelative:tinda-hunt\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\reign\\source\\repos\\tindahunt\\tinda-hunt\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|solutionrelative:tinda-hunt\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\camron\\source\\repos\\tindahunt2\\tinda-hunt\\tinda-hunt\\cannedfoodpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|solutionrelative:tinda-hunt\\cannedfoodpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\camron\\source\\repos\\tindahunt2\\tinda-hunt\\tinda-hunt\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|solutionrelative:tinda-hunt\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\camron\\source\\repos\\tindahunt2\\tinda-hunt\\tinda-hunt\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|solutionrelative:tinda-hunt\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\camron\\source\\repos\\tindahunt2\\tinda-hunt\\tinda-hunt\\cannedfoodpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|solutionrelative:tinda-hunt\\cannedfoodpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|c:\\users\\camron\\source\\repos\\tindahunt2\\tinda-hunt\\tinda-hunt\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C390B36E-27A0-461F-87DF-B8C3D135FC06}|Tinda-Hunt\\Tinda-Hunt.csproj|solutionrelative:tinda-hunt\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,54 +67,164 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\HomePage.xaml.cs",
-              "RelativeDocumentMoniker": "Tinda-Hunt\\HomePage.xaml.cs",
-              "ToolTip": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\HomePage.xaml.cs",
-              "RelativeToolTip": "Tinda-Hunt\\HomePage.xaml.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAB2AAAAAAAAAA==",
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\Tinda-Hunt\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Tinda-Hunt\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\Tinda-Hunt\\App.xaml.cs",
+              "RelativeToolTip": "Tinda-Hunt\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T13:50:35.893Z",
+              "WhenOpened": "2024-10-22T15:03:45.882Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomePage.xaml",
-              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\HomePage.xaml",
-              "RelativeDocumentMoniker": "Tinda-Hunt\\HomePage.xaml",
-              "ToolTip": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\HomePage.xaml",
-              "RelativeToolTip": "Tinda-Hunt\\HomePage.xaml",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBUAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-22T10:40:43.858Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "Tinda-Hunt\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\MainPage.xaml.cs",
-              "RelativeToolTip": "Tinda-Hunt\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAMAAAAFAAAAAAAAAA==",
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\Tinda-Hunt\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Tinda-Hunt\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\Tinda-Hunt\\AppShell.xaml.cs",
+              "RelativeToolTip": "Tinda-Hunt\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T13:02:51.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T14:58:39.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BuyItemsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\Tinda-Hunt\\BuyItemsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Tinda-Hunt\\BuyItemsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\Tinda-Hunt\\BuyItemsPage.xaml.cs",
+              "RelativeToolTip": "Tinda-Hunt\\BuyItemsPage.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:38:09.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuyItemsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\Tinda-Hunt\\BuyItemsPage.xaml",
+              "RelativeDocumentMoniker": "Tinda-Hunt\\BuyItemsPage.xaml",
+              "ToolTip": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\Tinda-Hunt\\BuyItemsPage.xaml",
+              "RelativeToolTip": "Tinda-Hunt\\BuyItemsPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T14:37:12.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tinda-Hunt.csproj",
+              "DocumentMoniker": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\Tinda-Hunt\\Tinda-Hunt.csproj",
+              "RelativeDocumentMoniker": "Tinda-Hunt\\Tinda-Hunt.csproj",
+              "ToolTip": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\Tinda-Hunt\\Tinda-Hunt.csproj",
+              "RelativeToolTip": "Tinda-Hunt\\Tinda-Hunt.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-22T14:33:01.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\Tinda-Hunt\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Tinda-Hunt\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\Tinda-Hunt\\MainPage.xaml",
+              "RelativeToolTip": "Tinda-Hunt\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T14:26:11.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\Tinda-Hunt\\App.xaml",
+              "RelativeDocumentMoniker": "Tinda-Hunt\\App.xaml",
+              "ToolTip": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\Tinda-Hunt\\App.xaml",
+              "RelativeToolTip": "Tinda-Hunt\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T14:26:00.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\Tinda-Hunt\\HomePage.xaml",
+              "RelativeDocumentMoniker": "Tinda-Hunt\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\Tinda-Hunt\\HomePage.xaml",
+              "RelativeToolTip": "Tinda-Hunt\\HomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T10:40:43.858Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\Tinda-Hunt\\AppShell.xaml",
               "RelativeDocumentMoniker": "Tinda-Hunt\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\reign\\source\\repos\\tindahunt\\Tinda-Hunt\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\Tinda-Hunt\\AppShell.xaml",
               "RelativeToolTip": "Tinda-Hunt\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-22T11:30:25.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T11:30:25.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\Tinda-Hunt\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "Tinda-Hunt\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\Tinda-Hunt\\HomePage.xaml.cs",
+              "RelativeToolTip": "Tinda-Hunt\\HomePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:50:35.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CannedFoodPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\Tinda-Hunt\\CannedFoodPage.xaml",
+              "RelativeDocumentMoniker": "Tinda-Hunt\\CannedFoodPage.xaml",
+              "ToolTip": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\Tinda-Hunt\\CannedFoodPage.xaml",
+              "RelativeToolTip": "Tinda-Hunt\\CannedFoodPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T15:26:04.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CannedFoodPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\Tinda-Hunt\\CannedFoodPage.xaml.cs",
+              "RelativeDocumentMoniker": "Tinda-Hunt\\CannedFoodPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\Tinda-Hunt\\CannedFoodPage.xaml.cs",
+              "RelativeToolTip": "Tinda-Hunt\\CannedFoodPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:26:58.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\Tinda-Hunt\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Tinda-Hunt\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Camron\\source\\repos\\TindaHunt2\\Tinda-Hunt\\Tinda-Hunt\\MainPage.xaml.cs",
+              "RelativeToolTip": "Tinda-Hunt\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:02:51.647Z"
             }
           ]
         }

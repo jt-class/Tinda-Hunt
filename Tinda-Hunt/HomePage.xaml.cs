@@ -6,13 +6,18 @@ namespace Tinda_Hunt
         {
             InitializeComponent();
         }
-
-        private void OnBuyItemTapped(object sender, EventArgs e)
+        private async void OnBuyItemTapped(object sender, EventArgs e)
         {
-            // Navigate to the Buy Item page or perform any desired action
-            DisplayAlert("Buy Item", "You tapped on Buy Item!", "OK");
-
-            //await Shell.Current.GoToAsync("BuyItemPage"); lagyan mo ng bagong page name BuyItemPage Ganun din sa iba
+            try
+            {
+                // Navigate to the Buy Item page or perform any desired action
+                await DisplayAlert("Buy Item", "You tapped on Buy Item!", "OK");
+                await Navigation.PushAsync(new BuyItemsPage());
+            }
+            catch (Exception ex)
+            {
+                await DisplayAlert("Navigation Error", ex.Message, "OK");
+            }
         }
 
         private void OnNearestStoreTapped(object sender, EventArgs e)
